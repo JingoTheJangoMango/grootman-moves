@@ -36,19 +36,4 @@ def track_collector(session, playlist_id):
                 pass
 
 
-start = time.perf_counter()
-result = []
 
-result = [x for x in range(500_000_000)]
-result = result[:len(result)//2]
-
-end = time.perf_counter()
-
-print(end-start)
-
-
-"""for x in range(500_000_000):
-    result.append(x)
-
-    if len(result) == 250_000_000:
-        break"""
