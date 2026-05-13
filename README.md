@@ -1,4 +1,24 @@
 # grootman-moves
-Gonna jingo on this jango
+### Gonna jingo on this jango
 
-Trying to make a script that takes a tidal playlist, splits it in half (if it is above a certain track number) before adding it to a new playlist. The script then goes back to the initial playlist and removes the tracks that were just added to a seperate playlist.
+<picture>
+<img width="500" height="720" alt="657388459_122230118468106720_4484169018976072703_n" src="https://github.com/user-attachments/assets/f5622c93-349f-46ea-80a9-0d9fc36c1a70" />
+</picture>
+
+*A Grootman*
+
+
+## About
+
+The purpose of this script is to cycle through a tidal user's playlists, and upon finding playlists containing tracks above a certain amount, splitting them in half. From there the script takes one half of the orignal playlist's tracks and adds them to a new playlist before finally removing said tracks from the original playlist.
+
+
+## Requirements
+
+The <a href= https://github.com/EbbLabs/python-tidal>tidalapi</a> module is required to run this program, to install it simply run the following command in Command Prompt:
+
+```
+py -m pip install tidalapi
+```
+
+
