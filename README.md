@@ -2,7 +2,7 @@
 ### Gonna jingo on this jango
 
 <picture>
-<img width="500" height="720" alt="657388459_122230118468106720_4484169018976072703_n" src="https://github.com/user-attachments/assets/f5622c93-349f-46ea-80a9-0d9fc36c1a70" title="This gentleman's fit is tough"/>
+<img width="500" height="720" alt="657388459_122230118468106720_4484169018976072703_n" src="https://github.com/user-attachments/assets/f5622c93-349f-46ea-80a9-0d9fc36c1a70" title="This gentleman's fit is tough" style="max-width: 100%; height: auto;"/>
 </picture>
 
 *A Grootman*
