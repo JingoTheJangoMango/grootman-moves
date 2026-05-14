@@ -20,5 +20,9 @@ The <a href= https://github.com/EbbLabs/python-tidal>tidalapi</a> module is requ
 ```
 py -m pip install tidalapi
 ```
+And for Mac:
+```
+python3 -m pip install tidalapi
+```
 
 
