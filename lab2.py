@@ -9,6 +9,12 @@ from tidalapi.types import OrderDirection
     2. The server side itself may pose problems, specifically regarding requests, Tidal is as tight as- 
         a nun when it comes to request rates.
 
+    3. The playlist() function limit is only 50, eaning only 50 playlists can be collected. 
+        I tried pagination, via the playlist_paginate() function but there seems to be a problem with it,
+        as it keeps paginating the same 50 albums, so there could be something wrong with the offset funcions in the source code somewhere.
+        Now as for the problem this causes, I wont be able to rename more than 50 albums within the collection, its alwasy the same ones-
+        being renamed based any specific order.
+
 """
 
 
