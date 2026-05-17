@@ -18,11 +18,11 @@ The purpose of this script is to cycle through a tidal user's playlists, and upo
 The <a href= https://github.com/EbbLabs/python-tidal>tidalapi</a> module is required to run this program, to install it simply run the following command in Command Prompt:
 
 ```
-py -m pip install tidalapi
+python3 -m pip install tidalapi
 ```
 And for Mac:
 ```
-python3 -m pip install tidalapi
+sudo apt-get install python3-mutagen
 ```
 
 
